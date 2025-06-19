@@ -1,6 +1,6 @@
 
 {
-  "name": "rythmiq-music-group",
+  "name": "rythmiq-vercel-ready",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
